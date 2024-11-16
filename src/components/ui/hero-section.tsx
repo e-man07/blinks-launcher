@@ -29,7 +29,8 @@ export default function HeroSection() {
           transition={{ delay: 0.5, duration: 0.8 }}
           className="text-xl mb-8 max-w-2xl mx-auto text-gray-300"
         >
-          Discover, launch, and collect extraordinary Solana tokens on the world's first and largest token launchpad
+            
+          Discover, launch, and collect extraordinary Solana tokens on the world&apos;s first and largest token launchpad
         </motion.p>
         <motion.div
           initial={{ scale: 0.8, opacity: 0 }}
